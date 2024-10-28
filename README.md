@@ -40,6 +40,8 @@ Now that you've got access, let's get you set up. You'll need the following thin
 
 ![image](https://github.com/user-attachments/assets/7f08f550-8b96-4abc-b022-c3c6ae61cce0)
 
+- Choose `Options`
+
 - Adjust the `Java memory` field to something reasonable, ideally more than 4096MB as a minimum - anything above 6114MB will be fine
   - You will need to check the box `Override global memory settings`
   - ⚠️ If you only have 8GB of RAM total, allocating half of it (4096MB) is not advisable, your mileage may vary
