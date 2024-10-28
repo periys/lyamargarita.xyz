@@ -1,13 +1,13 @@
 Welcome to the Margaritaville SMP information page!
 
 ## How do I get access to the server?
-- You need to be a subscriber to lyamargarita on Twitch
+- You need to be a subscriber to [lyamargarita](https://www.twitch.tv/lyamargarita) on Twitch
   - "_Booooo! Why?!_" I hear you shout. But it's not what you think! Margaritaville is a small close-knit community and our subscribers are some of our most active members. We ask this of you so we can be more certain you won't grief or misbehave.
 - Let us know in the Discord that you'd like access by posting in the #sub-channel, periys or Lya will whitelist you.
 
 ## What do I need to get?
 Now that you've got access, let's get you set up. You'll need the following things to get started:
-- A Minecraft account (note: this server is **Java only**
+- A Minecraft account (note: this server is **Java only**)
 - The [Modrinth launcher](https://modrinth.com/app)
   - Whilst it is _technically_ possible to use another launcher, no support will be provided to you if you choose to do this. Sorry!
 - A semi-decent PC
