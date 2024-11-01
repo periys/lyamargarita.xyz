@@ -51,6 +51,9 @@ Now that you've got access, let's get you set up. You'll need the following thin
 
 - That's it! Press play!
 
+>[!WARNING]
+> Please do not update the mods!
+
 ## What's the IP?
 Great question, it's below:
 ```
