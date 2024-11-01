@@ -4,6 +4,7 @@ Welcome to the Margaritaville SMP information page!
 - You need to be a subscriber to [lyamargarita](https://www.twitch.tv/lyamargarita) on Twitch
   - "_Booooo! Why?!_" I hear you shout. But it's not what you think! Margaritaville is a small close-knit community and our subscribers are some of our most active members. We ask this of you so we can be more certain you won't grief or misbehave.
 - Let us know in the Discord that you'd like access by posting in the #sub-channel, periys or Lya will whitelist you.
+- You'll need to [link your Discord account to your Twitch account](https://support.discord.com/hc/en-us/articles/212112068-Twitch-Integration-FAQ) to see the subs channel.
 
 ## What do I need to get?
 Now that you've got access, let's get you set up. You'll need the following things to get started:
